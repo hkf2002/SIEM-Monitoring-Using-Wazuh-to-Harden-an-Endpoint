@@ -53,3 +53,8 @@ If we expand the long we can find identify the vulnerability description. This d
 This specific issue affects the 7-Zip file archiver version 9.21 through 26.00. The Agent has version 22.01. 
 
 In order to resolve this issue we can update 7-Zip to the current version 26.03.
+
+Once install we can navigate to 7-Zip and confirm the updated version is installed.
+
+<img width="419" height="400" alt="Screenshot 2026-09-20 233641" src="https://github.com/user-attachments/assets/66156acb-36c3-4841-8cbc-9e3864ed50a4" />
+
