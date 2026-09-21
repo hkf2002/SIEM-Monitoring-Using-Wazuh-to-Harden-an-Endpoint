@@ -45,3 +45,11 @@ I have also filtered the logs to ***vulnerability.severity:exists*** and ***vuln
 This allows me to target High severity vulnerabilities.
 
 <img width="1947" height="972" alt="Screenshot 2026-09-20 230612" src="https://github.com/user-attachments/assets/bbbfee71-7b6d-4abf-84d3-e112e4dd9991" />
+
+If we expand the long we can find identify the vulnerability description. This description tells us the issue with our Agent. 
+
+<img width="1838" height="725" alt="Screenshot 2026-09-20 232438" src="https://github.com/user-attachments/assets/e04d45cc-ab0f-40c0-b396-fb029b764646" />
+
+This specific issue affects the 7-Zip file archiver version 9.21 through  26.00. The Agent has version 22.01. 
+
+In order to resolve this issue we can update 7-Zip
