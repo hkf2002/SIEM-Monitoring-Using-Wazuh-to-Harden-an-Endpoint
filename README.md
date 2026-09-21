@@ -50,6 +50,6 @@ If we expand the long we can find identify the vulnerability description. This d
 
 <img width="1838" height="725" alt="Screenshot 2026-09-20 232438" src="https://github.com/user-attachments/assets/e04d45cc-ab0f-40c0-b396-fb029b764646" />
 
-This specific issue affects the 7-Zip file archiver version 9.21 through  26.00. The Agent has version 22.01. 
+This specific issue affects the 7-Zip file archiver version 9.21 through 26.00. The Agent has version 22.01. 
 
-In order to resolve this issue we can update 7-Zip
+In order to resolve this issue we can update 7-Zip to the current version 26.03.
