@@ -63,3 +63,4 @@ File Integrity Monitoring (FIM)
 
 VirusTotal Automation
 
+Threat Hunting Scenario
