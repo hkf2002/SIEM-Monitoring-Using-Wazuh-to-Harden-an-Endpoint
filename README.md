@@ -21,7 +21,7 @@
 | Storage  | 256 GB |
 | Network |  Wi-Fi |
 
-# Vulnerability Chart
+# Vulnerability Log Analysis
 
 <img width="2459" height="959" alt="Screenshot 2026-09-20 224606" src="https://github.com/user-attachments/assets/10fe7e39-db3e-4f2e-821d-f038c1dac47f" />
 
@@ -54,4 +54,12 @@ In order to resolve this issue we can update 7-Zip to the current version 26.03.
 Once install we can navigate to 7-Zip and confirm the updated version is installed.
 
 <img width="419" height="400" alt="Screenshot 2026-09-20 233641" src="https://github.com/user-attachments/assets/66156acb-36c3-4841-8cbc-9e3864ed50a4" />
+
+# Future Additions
+
+MITRE ATT&CK Dashboard 
+
+File Integrity Monitoring (FIM)
+
+VirusTotal Automation
 
